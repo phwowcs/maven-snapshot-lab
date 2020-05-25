@@ -5,7 +5,7 @@
     <groupId>com.phuocle</groupId>
     <artifactId>maven-snapshot-lab</artifactId>
     <packaging>pom</packaging>
-    <version>1.0.2-SNAPSHOT</version>
+    <version>1.0.3-SNAPSHOT</version>
     <modules>
         <module>module1</module>
         <module>module2</module>
