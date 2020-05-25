@@ -1,3 +1,7 @@
 /module2/target/
 /module1/target/
 /target/
+/module1/pom.xml.releaseBackup
+/module2/pom.xml.releaseBackup
+/pom.xml.releaseBackup
+/release.properties
